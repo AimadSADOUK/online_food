@@ -1,7 +1,1 @@
-"# Titanic" 
-"# Student_scores" 
-"# Student_scores" 
-"# Student_scores" 
-"# Student_scores" 
-"# Student_scores" 
 "# online_food" 
